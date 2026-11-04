@@ -1,0 +1,9 @@
+Copyright (c) 2026 Hammed Akano. All rights reserved.
+
+The code and text in this repository are shared for viewing and assessment only.
+No permission is granted to copy, modify, distribute or use them in other work
+without written permission from the author.
+
+The file data/trees_uls_tls_tape.csv is excluded from this notice. It is derived
+from the SYSSIFOSS dataset (Weiser et al. 2022, https://doi.org/10.1594/PANGAEA.942856)
+and is licensed under CC BY-SA 4.0. See data/LICENSE.txt.

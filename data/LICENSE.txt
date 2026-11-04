@@ -1,0 +1,15 @@
+trees_uls_tls_tape.csv
+
+Derived from: Weiser, H., Schäfer, J., Winiwarter, L., Krašovec, N., Seitz, C., Schimka, M., et al. (2022).
+Terrestrial, UAV-borne, and airborne laser scanning point clouds of central European forest plots,
+Germany, with extracted individual trees and manual forest inventory measurements. PANGAEA.
+https://doi.org/10.1594/PANGAEA.942856
+
+Original licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Changes made: selected the columns id, plot, x, y, uls_on_h, uls_on_cpa, uls_on_cbh, tls_dbh and fi_dbh;
+kept trees with ULS leaf-on height above 2 m, crown projection area above 0.5 m2 and a position;
+removed plots HD and BR04.
+
+This derived file is licensed under CC BY-SA 4.0.
