@@ -71,10 +71,6 @@ The tree table is derived from the SYSSIFOSS dataset and is shared under the sam
 - Weiser, H., Schäfer, J., Winiwarter, L., Krašovec, N., Fassnacht, F.E. and Höfle, B. (2022). Individual tree point clouds and tree measurements from multi-platform laser scanning in German forests. Earth System Science Data 14, 2989–3012. https://doi.org/10.5194/essd-14-2989-2022
 - Finn, A., Younger, J., Skelton, P.S.M., Peters, S., O'Hehir, J., Turner, D. and Lucieer, A. (2026). Extracting value from fused aerial and terrestrial LiDAR scans. Remote Sensing 18, 2644. https://doi.org/10.3390/rs18162644
 
-## Limits
-
-German mixed temperate forest, TLS rather than mobile laser scanning, six tape plots. The method was developed on these plots, so the result needs confirming on new data.
-
 ## Licence
 
 Code and text: © 2026 Hammed Akano. All rights reserved. Shared for viewing and assessment only (see `LICENSE.txt`).
